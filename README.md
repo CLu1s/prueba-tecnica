@@ -67,4 +67,10 @@ Asegúrate de que el código esté limpio y bien comentado.
 Si enfrentaste algún desafío o hiciste alguna decisión técnica importante, no dudes en mencionarlo en el README.md o en los comentarios dentro del código.
 Verifica que tu aplicación funcione correctamente antes de enviar el enlace. Es esencial que podamos ejecutarla sin problemas.
 
+si tienes cualquier duda puedes entrar a nuestro discord https://discord.gg/gqcw2rYc
+
+
 ¡Esperamos con interés ver tu solución y te deseamos mucho éxito en esta prueba!
+
+
+puedes enviar tu solucion a xp02z6v6@anonaddy.me
