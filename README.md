@@ -5,7 +5,7 @@ Desarrollar una aplicación React que permita a los usuarios buscar y visualizar
 
 ### Requisitos:
 1. Tiempo:
-   - Tienes 24 horas apartir de que recibes esta prueba para mandar tu solución.
+   - Tienes 48 horas apartir de que recibes esta prueba para mandar tu solución.
 
 1. Interfaz:
    - Campo de búsqueda para que el usuario introduzca palabras clave.
