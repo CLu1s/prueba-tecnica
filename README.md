@@ -1,7 +1,7 @@
 # Buscador de bugs del repositorio de React en GitHub
 
 ## Objetivo:
-Desarrollar una aplicación React que permita a los usuarios buscar y visualizar la lista de bugs del repositorio oficial de React en GitHub utilizando la API de GitHub.
+Desarrollar una aplicación React que permita a los usuarios buscar y visualizar la lista de bugs del **repositorio oficial de React en GitHub** utilizando la API de GitHub.
 
 ### Requisitos:
 1. Tiempo:
